@@ -16,3 +16,5 @@ class EvaNil:
 
     def __float__(self):
         return 0.0
+
+# alt f4 tirei do rabo esse código 
