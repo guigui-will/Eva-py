@@ -45,3 +45,4 @@ class Eva:
 __all__ = ['Eva', 'EvaNil', 'EvaList', 'EvaMap', 'EvaTypes']
 
 # adaptation in the future
+# farme de aura ativa 
